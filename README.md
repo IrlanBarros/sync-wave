@@ -14,7 +14,7 @@ Nada muito complexo, apenas brincando com Python + FFmpeg
 Atualmente existem dois scripts:
 
 - `extract_audio.py` → extrai o áudio de um vídeo;
-- `replace_audio.py` → substitui o áudio original de um vídeo.
+- `insert_audio.py` → substitui o áudio original de um vídeo.
 
 ---
 
