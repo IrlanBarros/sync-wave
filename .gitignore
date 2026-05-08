@@ -1,0 +1,5 @@
+assets/video/*
+assets/audio/*
+
+!assets/video/.gitkeep
+!assets/audio/.gitkeep
