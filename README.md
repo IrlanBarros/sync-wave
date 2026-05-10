@@ -30,7 +30,7 @@ sudo apt install ffmpeg
 ```
 
 #### No Windows:
-1. Baixar pelo site oficial, clique aqui;
+1. Baixar pelo site oficial, [clique aqui](https://www.ffmpeg.org/download.html);
 2. Adicionar ao path do sistema.
 
 ### Colocar o vídeo ou áudio na pasta correspondente e nomear o arquivo de acordo com o que código espera (video.mp4 ou audio.mp3)
