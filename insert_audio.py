@@ -1,7 +1,7 @@
 import subprocess
 
 original_video = "assets/video/video.mp4"
-new_audio = "assets/audio/audio-1.mp3"
+new_audio = "assets/audio/audio.mp3"
 output = "assets/video/video_final.mp4"
 
 command = [

@@ -1,7 +1,7 @@
 import subprocess
 
-video = "assets/video/video-1.mp4"
-audio = "assets/audio/audio-1.mp3"
+video = "assets/video/video.mp4"
+audio = "assets/audio/audio.mp3"
 
 command = [
     "ffmpeg",
